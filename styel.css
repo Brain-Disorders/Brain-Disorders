@@ -40,3 +40,10 @@ p{
 .border{ 
     border: 3px dotted black;
 }
+.title {
+    text-align: center;
+    font-family: Copperplate;
+    font-size: xx-large;
+    color:black;
+    display: inline;
+}
