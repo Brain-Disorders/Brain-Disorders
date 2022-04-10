@@ -1,0 +1,47 @@
+.title {
+    text-align: center;
+    font-family: Copperplate;
+    font-size: xx-large;
+    color:black;
+    display: inline;
+}
+.top {
+   position: relative;
+   text-align: left; 
+   color: white;
+   
+}
+.header{
+    position: absolute;
+    width: 48%;
+    top: 40%;
+    padding-left: 1rem;
+    text-align: center;
+}
+
+.header1 {
+    font-size:xx-large;
+    font-weight:bolder;
+    font-family: Georgia;
+    
+}
+.header2 {
+    font-size:larger;
+    font-weight:  bold;
+    font-family: Georgia;
+}
+.img{
+    width: 100%;
+}
+.table{
+    text-align: center;
+}
+.disorders{
+background-color: white;
+    color: deepskyblue;
+    border: 2px solid deepskyblue;
+}
+.learn{
+    background-color: deepskyblue;
+    color: white;
+}

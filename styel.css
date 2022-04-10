@@ -1,0 +1,42 @@
+*{
+ font-family: Baskerville;
+ background-color: whitesmoke;
+}
+h1{
+    text-align: center;
+    color:salmon;
+    font-size:xx-large;
+    text-transform: uppercase;
+   }
+h2{
+    text-align: center;
+    color: salmon;
+    font-size:xx-large;
+}
+h4{
+    text-align: center;
+}
+.img{
+    width: 100%;
+    text-align: center;
+}
+.disorderimg{
+    width:750px;
+}
+h3{
+    color: salmon;
+    text-align: center;
+    font-size: x-large;
+}
+p{
+    font-size: large;
+    color: black;
+    text-align: center;
+}
+.list{
+    font-size: large;
+    color: black;
+}
+.border{ 
+    border: 3px dotted black;
+}
