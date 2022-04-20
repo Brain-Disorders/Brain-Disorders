@@ -40,7 +40,7 @@ p{
 .border{ 
     border: 3px dotted black;
 }
-.title {
+#title {
     text-align: center;
     font-family: Copperplate;
     font-size: xx-large;
