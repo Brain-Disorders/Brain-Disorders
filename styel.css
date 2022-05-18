@@ -40,6 +40,13 @@ p{
 .border{ 
     border: 3px dotted black;
 }
+.aboutme{
+    color: salmon;
+    border: 3px dotted salmon;
+    text-align: center;
+    font-family: Copperplate;
+    font-size: xx-large;
+}
 #title {
     text-align: center;
     font-family: Copperplate;

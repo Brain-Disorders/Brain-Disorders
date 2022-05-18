@@ -20,7 +20,7 @@
 .header{
     position: absolute;
     width: 48%;
-    top: 40%;
+    top: 30%;
     padding-left: 1rem;
     text-align: center;
 }
@@ -35,6 +35,12 @@
     font-size:larger;
     font-weight:  bold;
     font-family: Georgia;
+}
+.aboutme{
+  color: white;
+  font-size:larger;
+  font-weight:  bold;
+  font-family: Georgia;
 }
 .img{
     width: 100%;
